@@ -26,4 +26,7 @@ In the long term, FloodGuard AI can be scaled to other regions, addressing flood
 ## Application Design
 ![GitHub Logo](https://github.com/harshilp0103/FloodGuard-AI/blob/44300e8a9857401a35d1bea6723ff5b5d2aebaf9/Application%20Design.png)
 
+## Ethical Design
+![GitHub Logo](https://github.com/harshilp0103/FloodGuard-AI/blob/main/Ethical%20Design.png)
+
 
