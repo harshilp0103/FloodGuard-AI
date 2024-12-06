@@ -20,6 +20,6 @@ Future Vision:
 In the long term, FloodGuard AI can be scaled to other regions, addressing flood-related risks on a broader scale. Additional features, such as predictive flood modeling and community reporting tools, will further enhance its impact in mitigating the effects of natural disasters.
 
 ## See Our Demo Video
-[![Watch the video](](https://www.youtube.com/watch?v=wDSLVaIFUTQ)
+[![Watch the video](https://github.com/harshilp0103/FloodGuard-AI/blob/main/Group%20Photo.png)](https://www.youtube.com/watch?v=wDSLVaIFUTQ)
 
 
