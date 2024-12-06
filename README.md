@@ -22,4 +22,7 @@ In the long term, FloodGuard AI can be scaled to other regions, addressing flood
 ## See Our Demo Video
 [[FloodGuard AI Demo Video]](https://www.youtube.com/watch?v=wDSLVaIFUTQ)
 
+## Application Design
+![GitHub Logo](/roadmap.jpg)
+
 
