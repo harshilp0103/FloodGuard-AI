@@ -6,7 +6,7 @@ FloodGuard AI is an application that helps users receive flood-related informati
 
 ## Why FloodGuard AI
 
-Floodguard AI aimes to address the critical need for flood awareness and prepardness in San Jose, a region that has been experience more rainfall each year. The project focuses on providing real-time flood related data and resources, empowering users to make informed decisions during flood events and enhancing community resilience. 
+Floodguard AI aimes to address the critical need for flood awareness and prepardness in San Jose, a region that has been experiencing more rainfall each year. The project focuses on providing real-time flood related data and resources, empowering users to make informed decisions during flood events and enhancing community resilience. 
 
 Key Features: 
 - Real-time Flood Data: Offers users live updates on flooding locations through an interactive map, helping them identify and respond to flood-prone areas quickly.
