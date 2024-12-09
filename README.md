@@ -19,6 +19,14 @@ Unlike generic flood-tracking apps, FloodGuard AI integrates real-time mapping w
 Future Vision:
 In the long term, FloodGuard AI can be scaled to other regions, addressing flood-related risks on a broader scale. Additional features, such as predictive flood modeling and community reporting tools, will further enhance its impact in mitigating the effects of natural disasters.
 
+## Project Summary
+
+The FloodGuard AI project was designed to provide Silicon Valley residents with accessible flood-related information and real-time flood reporting capabilities. My primary contributions included developing the first feature, which involved extracting critical information from user-provided URLs, and implementing the flood reporting map, allowing users to input street addresses and upload flood-related images for display on a dynamically updated map.
+
+One of the challenges we encountered was selecting an appropriate storage solution for the flood map. Initially, we explored a free online database management system but faced integration issues, prompting a temporary shift to a CSV-based solution.
+
+This project aims to educate users about flooding through a user-friendly interface, empowering individuals with knowledge and tools to safeguard themselves and their families during emergencies. FloodGuard AI stands out as a practical and innovative solution to enhance community preparedness and resilience.
+
 ## See Our Demo Video
 [![Group Photo](https://github.com/harshilp0103/picture-holder/blob/main/Group%20Photo.png)](https://www.youtube.com/watch?v=wDSLVaIFUTQ)
 
